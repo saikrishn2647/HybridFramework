@@ -1,0 +1,19 @@
+19:01:45.104 [main] INFO  testCases.TC_001_LoginPageTest - ****Starting TC_OO1_LoginPageTest****
+19:01:45.664 [main] INFO  testCases.TC_001_LoginPageTest - providing login details
+19:01:55.552 [main] INFO  testCases.TC_001_LoginPageTest - clicked on loginbutton
+19:25:16.982 [main] INFO  testCases.TC_001_LoginPageTest - ****Starting TC_OO1_LoginPageTest****
+19:25:17.545 [main] INFO  testCases.TC_001_LoginPageTest - providing login details
+19:25:21.584 [main] INFO  testCases.TC_001_LoginPageTest - clicked on loginbutton
+19:25:21.941 [main] INFO  testCases.TC_001_LoginPageTest - ****Finished TC_OO1_LoginPageTest****
+09:11:05.029 [main] INFO  testCases.TC_001_LoginPageTest - ****Starting TC_OO1_LoginPageTest****
+09:11:05.341 [main] INFO  testCases.TC_001_LoginPageTest - providing login details
+09:11:09.985 [main] INFO  testCases.TC_001_LoginPageTest - clicked on loginbutton
+09:11:10.830 [main] INFO  testCases.TC_001_LoginPageTest - ****Finished TC_OO1_LoginPageTest****
+17:53:18.743 [main] INFO  testCases.TC_001_LoginPageTest - ****Starting TC_OO1_LoginPageTest****
+17:53:18.948 [main] INFO  testCases.TC_001_LoginPageTest - providing login details
+17:53:23.405 [main] INFO  testCases.TC_001_LoginPageTest - clicked on loginbutton
+17:53:23.573 [main] INFO  testCases.TC_001_LoginPageTest - ****Finished TC_OO1_LoginPageTest****
+18:29:08.187 [main] INFO  testCases.TC_001_LoginPageTest - ****Starting TC_OO1_LoginPageTest****
+18:29:08.679 [main] INFO  testCases.TC_001_LoginPageTest - providing login details
+18:29:12.689 [main] INFO  testCases.TC_001_LoginPageTest - clicked on loginbutton
+18:29:13.172 [main] INFO  testCases.TC_001_LoginPageTest - ****Finished TC_OO1_LoginPageTest****

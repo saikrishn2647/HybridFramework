@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-18T18:28:48 IST" name="FreeHRMSuite" finished-at="2023-09-18T18:29:13 IST" duration-ms="25091">
+    <groups>
+    </groups>
+    <test started-at="2023-09-18T18:28:48 IST" name="FreeHRMSuiteTest" finished-at="2023-09-18T18:29:13 IST" duration-ms="25091">
+      <class name="testCases.TC_001_LoginPageTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.TC_001_LoginPageTest@3c41ed1d]" started-at="2023-09-18T18:28:50 IST" name="setup" finished-at="2023-09-18T18:29:08 IST" duration-ms="18065" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="login_test()[pri:0, instance:testCases.TC_001_LoginPageTest@3c41ed1d]" started-at="2023-09-18T18:29:08 IST" name="login_test" finished-at="2023-09-18T18:29:13 IST" duration-ms="5020" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_test -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_001_LoginPageTest@3c41ed1d]" started-at="2023-09-18T18:29:13 IST" name="tearDown" finished-at="2023-09-18T18:29:13 IST" duration-ms="675" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_001_LoginPageTest -->
+    </test> <!-- FreeHRMSuiteTest -->
+  </suite> <!-- FreeHRMSuite -->
+</testng-results>
